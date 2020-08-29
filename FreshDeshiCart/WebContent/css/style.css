@@ -1206,7 +1206,7 @@ button.submit.check_out{
 /*-- products-breadcrumb --*/
 .products-breadcrumb{
 	padding:1em 0;
-	background:#84C639;
+	background:#84C639;  /*#337ab7*/
 }
 .products-breadcrumb ul li{
 	display:inline-block;
